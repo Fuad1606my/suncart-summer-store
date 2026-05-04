@@ -1,0 +1,38 @@
+{
+  "name": "suncart-summer-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "auth:generate": "npx auth@latest generate --config ./lib/auth.ts",
+    "auth:migrate": "npx auth@latest migrate --config ./lib/auth.ts"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "latest",
+    "animate.css": "latest",
+    "better-auth": "latest",
+    "clsx": "latest",
+    "lucide-react": "latest",
+    "next": "^15.4.0",
+    "pg": "latest",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/pg": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "daisyui": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "^15.4.0",
+    "postcss": "latest",
+    "tailwindcss": "^3.4.17",
+    "typescript": "latest"
+  }
+}

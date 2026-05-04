@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.8,
+    "stock": 14,
+    "description": "Lightweight polarized sunglasses with UV400 protection for beach trips, daily commutes and sunny road rides.",
+    "image": "/products/sunglasses.svg",
+    "category": "Accessories",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 2,
+    "name": "Aloe Cooling Gel SPF 50",
+    "brand": "AquaGlow",
+    "price": 22,
+    "rating": 4.9,
+    "stock": 20,
+    "description": "A hydrating aloe-based cooling gel with SPF 50 support, designed for long outdoor summer days.",
+    "image": "/products/skincare.svg",
+    "category": "Skincare",
+    "badge": "Hot Deal"
+  },
+  {
+    "id": 3,
+    "name": "Breeze Linen Shirt",
+    "brand": "CoastWear",
+    "price": 34,
+    "rating": 4.6,
+    "stock": 11,
+    "description": "Breathable summer linen shirt with a relaxed fit, perfect for travel, campus and casual hangouts.",
+    "image": "/products/shirt.svg",
+    "category": "Outfits",
+    "badge": "New"
+  },
+  {
+    "id": 4,
+    "name": "Foldable Beach Hat",
+    "brand": "PalmPeak",
+    "price": 18,
+    "rating": 4.7,
+    "stock": 9,
+    "description": "Wide-brim foldable hat for portable shade and a clean vacation look without taking much bag space.",
+    "image": "/products/hat.svg",
+    "category": "Accessories",
+    "badge": "Travel Pick"
+  },
+  {
+    "id": 5,
+    "name": "Portable Mist Fan",
+    "brand": "CoolMate",
+    "price": 28,
+    "rating": 4.9,
+    "stock": 16,
+    "description": "Rechargeable handheld fan with a fine mist mode to keep you refreshed during heat waves and outdoor events.",
+    "image": "/products/fan.svg",
+    "category": "Gadgets",
+    "badge": "50% OFF"
+  },
+  {
+    "id": 6,
+    "name": "Insulated Water Bottle",
+    "brand": "HydraSip",
+    "price": 24,
+    "rating": 4.8,
+    "stock": 25,
+    "description": "Double-wall bottle that keeps drinks cold for hours, built for school, office, gym and travel days.",
+    "image": "/products/bottle.svg",
+    "category": "Hydration",
+    "badge": "Popular"
+  },
+  {
+    "id": 7,
+    "name": "Quick Dry Beach Towel",
+    "brand": "WaveNest",
+    "price": 19,
+    "rating": 4.5,
+    "stock": 18,
+    "description": "Soft microfiber towel that dries quickly and packs small for swimming pools, beach days and picnics.",
+    "image": "/products/towel.svg",
+    "category": "Beach",
+    "badge": "Lightweight"
+  },
+  {
+    "id": 8,
+    "name": "Coconut Lip Balm Duo",
+    "brand": "GlowLeaf",
+    "price": 9,
+    "rating": 4.4,
+    "stock": 30,
+    "description": "Moisturizing lip balm pair with coconut aroma to protect lips from dry summer air.",
+    "image": "/products/lipbalm.svg",
+    "category": "Skincare",
+    "badge": "Budget"
+  }
+]
