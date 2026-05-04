@@ -6,11 +6,11 @@ The website includes a clean homepage, product listing, protected product detail
 
 ## Live Website
 
-Live Link: https://your-live-link.vercel.app
+Live Link: https://suncart-summer-store-f.netlify.app
 
 ## GitHub Repository
 
-Repository Link: https://github.com/Fuad1606my/suncart-summer-store
+Repository Link: https://github.com/Fuad1606my/suncart-summer-store.git
 
 ## Project Purpose
 
