@@ -16,10 +16,9 @@ if (!process.env.DATABASE_URL) {
 const googleProviders = process.env.GOOGLE_CLIENT_ID && process.env.GOOGLE_CLIENT_SECRET
   ? {
       google: {
-        clientId: process.env.GOOGLE_CLIENT_ID,
-        clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-        prompt: "select_account"
-      }
+         clientId: process.env.GOOGLE_CLIENT_ID,
+         clientSecret: process.env.GOOGLE_CLIENT_SECRET
+              }
     }
   : {};
 
